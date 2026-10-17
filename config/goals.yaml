@@ -1,0 +1,10 @@
+# Waypoints relative to the intended robot spawn pose.
+# Verify the Cartographer map origin before using these goals.
+frame_id: map
+goals:
+  - {x: 11.00, y: 0.00, yaw: 0.000}
+  - {x: 20.89, y: 3.22, yaw: 1.000}
+  - {x: 18.78, y: 12.89, yaw: 2.571}
+  - {x: 7.99, y: 14.00, yaw: 3.142}
+  - {x: -3.01, y: 14.00, yaw: -3.140}
+  - {x: -10.00, y: 6.99, yaw: -1.569}
